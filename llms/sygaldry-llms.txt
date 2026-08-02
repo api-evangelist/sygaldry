@@ -1,0 +1,23 @@
+# Sygaldry
+
+> Sygaldry builds quantum-accelerated AI servers to exponentially speed up AI training and inference, cutting compute costs and improving energy efficiency.
+
+## About
+
+- [Home](https://sygaldry.com/): Company overview and mission - building quantum-accelerated AI infrastructure for secure superintelligence
+
+## News
+
+- [Sygaldry raises $139M to build quantum computers for AI](https://www.globenewswire.com/news-release/2026/04/14/3273436/0/en/Sygaldry-raises-139M-to-build-quantum-computers-for-AI.html) (2026-04-14)
+
+## Careers
+
+- [Open Roles](https://jobs.ashbyhq.com/sygaldry-technologies): Job openings for scientists, engineers, and collaborators
+
+## Contact
+
+- Email: letsbuild@sygaldry.com
+- Media: media@sygaldry.com
+- X/Twitter: @sygaldry_tech
+- LinkedIn: [Sygaldry Technologies](https://www.linkedin.com/company/sygaldry-technologies)
+- GitHub: [sygaldry-tech](https://github.com/sygaldry-tech)

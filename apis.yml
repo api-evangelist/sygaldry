@@ -1,8 +1,28 @@
 aid: sygaldry
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sygaldry.png
 name: Sygaldry
-description: Sygaldry is a company surfaced as a portfolio company of bloomberg-beta, initialized-capital
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: Sygaldry Technologies builds quantum-accelerated AI servers — augmenting
+  classical data-center infrastructure with quantum processors purpose-built for AI
+  to deliver exponential speedups on specific training and inference tasks. Founded
+  in 2024 in Ann Arbor, Michigan by Chad Rigetti (founder of Rigetti Computing), Idalia
+  Friedson, and Michael Keiser, the company combines multiple qubit types within a
+  single fault-tolerant architecture to accelerate model training, fine-tuning, and
+  token generation while cutting compute cost and energy use. A Y Combinator Spring
+  2025 company, Sygaldry has raised $139M ($34M seed led by Initialized Capital and
+  a $105M Series A led by Breakthrough Energy Ventures, with Bloomberg Beta among its
+  investors). Sygaldry currently publishes no public developer API; this profile is
+  maintained for API Evangelist network discovery.
 url: https://raw.githubusercontent.com/api-evangelist/sygaldry/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +33,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Quantum Computing
+- Artificial Intelligence
+- AI Infrastructure
+- Hardware
+- Data Center
+- Deep Tech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +51,20 @@ maintainers:
 common:
 - type: Website
   url: https://sygaldry.com/
+- type: GitHubOrganization
+  url: https://github.com/sygaldry-tech
+- type: LLMsTxt
+  url: llms/sygaldry-llms.txt
+- type: DomainSecurity
+  url: security/sygaldry-domain-security.yml
+- type: LinkedIn
+  url: https://www.linkedin.com/company/sygaldry-technologies
+- type: Twitter
+  url: https://twitter.com/sygaldry_tech
+- type: Careers
+  url: https://jobs.ashbyhq.com/sygaldry-technologies
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
